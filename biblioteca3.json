@@ -2,7 +2,12 @@
   "titulo": "Deseo Paz",
   "audio": "https://dl.dropboxusercontent.com/scl/fi/sedvivj9luk4olgryzn9o/770-Deseo-paz.mp3?rlkey=onm28zblwohmdpt27qbatrkej&st=gs6b6uxb&dl=0",
   "entrada": "https://vamoscantando.blogspot.com/2026/10/deseo-paz.html",
-  "categorias": [],
+  "categorias": [
+    {
+      "grupo": "Otros Cantos",
+      "subcategoria": "Paz"
+    }
+  ],
   "etiquetas": [
     "Kairoi",
     "Paz"
